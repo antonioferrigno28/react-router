@@ -1,3 +1,7 @@
-export default function PostsPage() {
-  return <h1>Su di noi (nemmeno una nuvola)</h1>;
+export default function AboutPage() {
+  return (
+    <div className="container">
+      <h1>Su di noi</h1>
+    </div>
+  );
 }
