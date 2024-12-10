@@ -13,8 +13,10 @@ export default function DefaultLayout() {
       </main>
 
       <footer>
-        <div className="container">
-          <h1>Ao footer</h1>
+        <div className="text-bg-dark py-4">
+          <div className="container ">
+            <h1>Footer</h1>
+          </div>
         </div>
       </footer>
     </div>
