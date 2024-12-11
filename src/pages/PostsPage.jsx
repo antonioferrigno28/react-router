@@ -47,7 +47,7 @@ export default function PostsPage() {
                     <img src={post.immagine} width="50" />
                   </td>
                   <td>
-                    <span class="badge text-bg-secondary">
+                    <span className="badge text-bg-secondary">
                       {post.categoria}
                     </span>
                   </td>

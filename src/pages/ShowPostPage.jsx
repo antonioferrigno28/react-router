@@ -45,7 +45,7 @@ export default function showPosts() {
               <p className="card-text">{post.contenuto}</p>
               <div className="d-flex">
                 <p className="card-text">Categoria:</p>
-                <span class="badge text-bg-secondary ms-3 mb-3">
+                <span className="badge text-bg-secondary ms-3 mb-3">
                   {post.categoria}
                 </span>
               </div>
